@@ -5,7 +5,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/techefx/environment-variable-repo.git
+          uri: https://github.com/vmcit/environment-variable-repo.git
 
 
 server:
